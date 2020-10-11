@@ -1,0 +1,7 @@
+Historia de Emilio Sánchez.
+
+Esta es mi historia de cómo empecé mi aprendizaje en programación mediante el reto Road To Code.
+
+Primero CLI, ahora Git y Github.
+
+Emocionante, lo sé.
