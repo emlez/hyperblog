@@ -9,3 +9,6 @@ Primero CLI, ahora Git y Github.
 Emocionante, lo sé.
 
 Haciendo cambios para un nuevo commit. 
+
+Es hábil con la computadora, aunque quiere ser increíble.
+Esperemos lo mejor.
