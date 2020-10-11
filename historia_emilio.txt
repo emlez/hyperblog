@@ -1,7 +1,11 @@
-Historia de Emilio Sánchez.
+Historia de Emilio Sánchez, me hago llamar EmlSn en todos lados, 
+a menos de que me ganen el username donde sólo agrego algún guión bajo o un punto.
 
-Esta es mi historia de cómo empecé mi aprendizaje en programación mediante el reto Road To Code.
+Esta es mi historia de cómo empecé mi aprendizaje en programación 
+mediante el reto Road To Code.
 
 Primero CLI, ahora Git y Github.
 
 Emocionante, lo sé.
+
+Haciendo cambios para un nuevo commit. 
