@@ -3,12 +3,8 @@ a menos de que me ganen el username donde sólo agrego algún guión bajo o un p
 
 Esta es mi historia de cómo empecé mi aprendizaje en programación 
 mediante el reto Road To Code.
-
 Primero CLI, ahora Git y Github.
-
 Emocionante, lo sé.
-
-Haciendo cambios para un nuevo commit. 
 
 Es hábil con la computadora, aunque quiere ser increíble.
 Esperemos lo mejor.
