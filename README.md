@@ -1,7 +1,7 @@
 # Hyperblog 👾
 > Un blog increíble para el [Curso de Git y GitHub](https://platzi.com/cursos/git-github/ "curso de Git y GitHub") de Platzi 💚🚀
 
-####En este curso aprendí de Git y GitHub como nunca
+#### En este curso aprendí de Git y GitHub como nunca
 - Readme.md es una excelente práctica
 - Ignorar archivos para no subirlos al repositorio (.gitignore)
 - Haciendo deployment a un servidor
