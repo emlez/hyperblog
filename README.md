@@ -30,5 +30,7 @@
 
 Tan sólo me arrepiento de no haberlo tomado desde hace meses.
 **Gracias por tanto, Freddy.**
+Hecho con <3
+Para todos los Platzinautas
 
 Para acceder, da clic [aquí](https://emlsn.github.io/hyperblog/blogpost.html "GitHub Pages Hyperblog")
